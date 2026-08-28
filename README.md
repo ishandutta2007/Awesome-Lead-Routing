@@ -20,35 +20,19 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 ## SaaS/Hosted Platforms
-- **[LeanData](https://www.leandata.com/)**  
-  Leading Salesforce-native GTM orchestration and routing platform — visual flows, lead-to-account matching, territory logic, and complex assignment rules.
 
-- **[Chili Piper](https://www.chilipiper.com/)**  
-  Inbound routing and instant meeting scheduling — form-to-calendar concierge and Distro for CRM-level lead distribution.
-
-- **[Distribution Engine](https://www.ncsquared.com/)**  
-  Salesforce lead and record distribution with fairness, capacity, and multiple distribution methods for sales teams.
-
-- **[Openprise](https://www.openprise.com/)**  
-  Data orchestration and GTM automation platform that includes routing and enrichment workflows across systems.
-
-- **[Gradient Works](https://www.gradient.works/)**  
-  Salesforce-native routing and assignment built on Flow — matching, capacity, and territory logic without a separate routing product.
-
-- **[Fullcast](https://www.fullcast.com/)**  
-  Revenue planning and GTM platform with territory and capacity-aware routing components.
-
-- **[Tray.io (routing / automation)](https://tray.ai/)**  
-  General automation platform frequently used to implement custom lead routing and enrichment across CRMs and tools.
-
-- **[MadKudu](https://www.madkudu.com/)**  
-  Predictive lead scoring and routing signals that help prioritize and assign the highest-fit leads.
-
-- **[RevenueHero](https://www.revenuehero.io/)**  
-  Routing plus instant scheduling for inbound leads, positioned as a competitive alternative for mid-market teams.
-
-- **[Calendly Routing](https://calendly.com/)**  
-  Scheduling platform with routing forms and assignment logic that connects inbound interest to the right calendar.
+| Product | Description | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[LeanData](https://www.leandata.com/)** | Leading Salesforce-native GTM orchestration and routing platform — visual flows, lead-to-account matching, territory logic, and complex assignment rules. | Starts at ~$39–$45/user/month (annual commitments typically start at ~$15,000–$25,000/year depending on objects and tiers) | No free tier or trial; sales-led demo only |
+| **[Chili Piper](https://www.chilipiper.com/)** | Inbound routing and instant meeting scheduling — form-to-calendar concierge and Distro for CRM-level lead distribution. | Starts at $1,250/month ($15,000/year billed annually; includes 15 user seats, extra seats at $45/user/month) | No free tier or trial; guided live demo only |
+| **[Distribution Engine](https://www.ncsquared.com/)** | Salesforce lead and record distribution with fairness, capacity, and multiple distribution methods for sales teams. | Starts at $20/user/month (Starter tier; 5 license minimum, billed annually); Advanced at $35/user/month; Unlimited at $55/user/month | 30-day free trial on Salesforce AppExchange (full-featured; requires Salesforce Enterprise Edition or higher) |
+| **[Openprise](https://www.openprise.com/)** | Data orchestration and GTM automation platform that includes routing and enrichment workflows across systems. | Starts at $35,000/year (~$2,917/month billed annually for Professional plan; includes unlimited seats and 400+ connectors) | No free tier or trial; custom product demo only |
+| **[Gradient Works](https://www.gradient.works/)** | Salesforce-native routing and assignment built on Flow — matching, capacity, and territory logic without a separate routing product. | Starts at $799/month (Growth tier billed annually; includes up to 10 rep users) | Free Forever plan available for Carve territory planner (includes account scoring and book management with credit limits; no credit card required) |
+| **[Fullcast](https://www.fullcast.com/)** | Revenue planning and GTM platform with territory and capacity-aware routing components. | Custom enterprise plans starting at ~$15,000–$25,000/year (based on modules such as Plan, Pay, Performance and rep seat counts) | No free tier or trial; live demo and proof of concept only |
+| **[Tray.io (routing / automation)](https://tray.ai/)** | General automation platform frequently used to implement custom lead routing and enrichment across CRMs and tools. | Starts at ~$595–$1,000/month (Pro tier; includes 3 workspaces and standard monthly task quotas) | 14-day free trial (managed trial with standard rate limits of 30 req/sec; sales-assisted setup) |
+| **[MadKudu](https://www.madkudu.com/)** | Predictive lead scoring and routing signals that help prioritize and assign the highest-fit leads. | Starts at $1,999/month (Growth plan; covers up to 2,000 scored leads/month; Pro plan at $2,499/month for up to 6,000 leads) | No free tier or trial; live demo and guided evaluation only |
+| **[RevenueHero](https://www.revenuehero.io/)** | Routing plus instant scheduling for inbound leads, positioned as a competitive alternative for mid-market teams. | Starts at $20–$25/user/month (Outbound Essentials; Inbound Essentials starts at $25/user/month + $79/month platform fee; admin seats free) | 14-day free trial (no credit card required; full access to qualification and inbound routing features) |
+| **[Calendly Routing](https://calendly.com/)** | Scheduling platform with routing forms and assignment logic that connects inbound interest to the right calendar. | Teams plan starts at $16/seat/month (billed annually) or $20/seat/month (billed monthly) for routing and round-robin features | Free Forever plan (limited to 1 connected calendar, 1 active event type, no team routing); 14-day free trial for Teams plan |
 
 ## Open-Source GitHub Projects
 - **[n8n and open workflow engines](https://github.com/n8n-io/n8n)**  
